@@ -1,0 +1,18 @@
+{
+  "name": "ez-currency",
+  "version": "1.0.0",
+  "description": "A package that makes handling and displaying currency easy and simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "formatting",
+    "formatter",
+    "money",
+    "iso"
+  ],
+  "author": "Avi Cohen-Nehemia",
+  "license": "ISC"
+}
