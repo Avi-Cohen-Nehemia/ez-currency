@@ -14,5 +14,10 @@
     "iso"
   ],
   "author": "Avi Cohen-Nehemia",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avi-Cohen-Nehemia/ez-currency.git"
+  },
+  "type": "module"
 }
